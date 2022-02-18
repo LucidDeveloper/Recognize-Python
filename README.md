@@ -1,5 +1,7 @@
-# Coding Dojo Assignment: Recognize-Python
+# Recognize-Python
+* Coding Dojo Assignment: Programming Concepts
 
+# Objective:
 * Use what you know already to identify concepts in a new language.
 
 # The goal of this assignment:
